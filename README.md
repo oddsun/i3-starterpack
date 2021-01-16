@@ -73,6 +73,8 @@ I recommend You to listen [Scenes from a Memory](https://www.youtube.com/playlis
 - :coffee: <br />
 
 ## Installation
+- **Zeroth: pre-reqs**  
+`sudo apt install xorg network-manager pulseaudio`
 - **First, install i3 of course** <br />
 `sudo apt-get install i3` <br />
 It will give You i3-wm, dunst, i3lock, i3status, and suckless-tools.
